@@ -1,3 +1,7 @@
+// Data can be handled using two methods: call by value and call by reference. 
+// These methods determine how data is stored and accessed, 
+// and data is categorized into two types: primitive and non-primitive.
+
 //  Primitive
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
